@@ -1,0 +1,16 @@
+{
+ "code": "M459",
+ "connector": "RTO-144",
+ "type": "M459 - video follow filter selector",
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M459/M459.rto144.json"
+ ]
+}
