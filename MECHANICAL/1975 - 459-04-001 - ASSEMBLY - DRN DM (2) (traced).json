@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/ROUTING/M459/MECHANICAL/1975 - 459-04-001 - ASSEMBLY - DRN DM (2).jpg",
+ "version": 1,
+ "trace": "_traces/60ccf266050e526e.svg",
+ "sheet": {
+  "number": "B 459-04-001",
+  "title": "M459 ASSEMBLY",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.2, 431.9, 288.9],
+ "outlines": {
+  "line": {"rings": 849, "straight": {"n": 13112, "mm": 14380.1}, "curved": {"n": 2105, "mm": 2586.3}},
+  "text": {"rings": 62, "straight": {"n": 592, "mm": 591.1}, "curved": {"n": 143, "mm": 189.9}}
+ },
+ "circles": [
+  {"c": [349.6, 143.4], "r": 4.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [330.8, 195.1], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [339.9, 257.7], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [340.7, 83.2], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [340.8, 83.2], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5}
+ ],
+ "boxes": [
+  {"mm": [318.7, 79.2, 361.4, 262.3], "w": 42.7, "h": 183.1, "from": "ring"},
+  {"mm": [239.6, 34.1, 291.5, 57.9], "w": 51.9, "h": 23.9, "from": "ring"},
+  {"mm": [184.8, 53.1, 196.0, 57.6], "w": 11.2, "h": 4.5, "from": "ring"},
+  {"mm": [173.2, 54.0, 176.4, 57.2], "w": 3.2, "h": 3.2, "from": "ring"},
+  {"mm": [184.8, 46.6, 196.0, 52.3], "w": 11.2, "h": 5.7, "from": "ring"},
+  {"mm": [172.7, 46.4, 184.3, 52.0], "w": 11.6, "h": 5.6, "from": "ring"},
+  {"mm": [197.1, 40.2, 238.8, 46.2], "w": 41.7, "h": 6.0, "from": "ring"},
+  {"mm": [172.7, 40.0, 184.2, 46.0], "w": 11.4, "h": 6.0, "from": "ring"},
+  {"mm": [184.8, 40.2, 196.0, 46.0], "w": 11.2, "h": 5.8, "from": "ring"},
+  {"mm": [184.8, 34.1, 196.0, 39.7], "w": 11.2, "h": 5.6, "from": "ring"},
+  {"mm": [163.7, 33.9, 172.3, 39.5], "w": 8.6, "h": 5.6, "from": "ring"},
+  {"mm": [197.1, 27.8, 238.8, 33.9], "w": 41.7, "h": 6.1, "from": "ring"},
+  {"mm": [163.9, 27.6, 172.3, 33.5], "w": 8.4, "h": 5.8, "from": "ring"},
+  {"mm": [172.9, 27.5, 184.2, 33.5], "w": 11.2, "h": 6.0, "from": "ring"},
+  {"mm": [184.8, 27.6, 196.0, 33.5], "w": 11.2, "h": 5.8, "from": "ring"},
+  {"mm": [172.9, 21.6, 184.2, 27.1], "w": 11.2, "h": 5.5, "from": "ring"},
+  {"mm": [163.9, 21.5, 172.3, 27.0], "w": 8.5, "h": 5.5, "from": "ring"},
+  {"mm": [197.1, 15.3, 238.8, 21.3], "w": 41.7, "h": 6.0, "from": "ring"},
+  {"mm": [185.0, 15.3, 196.0, 21.2], "w": 11.0, "h": 5.8, "from": "ring"},
+  {"mm": [172.9, 15.3, 184.4, 21.0], "w": 11.4, "h": 5.7, "from": "ring"},
+  {"mm": [163.9, 15.2, 172.3, 20.9], "w": 8.4, "h": 5.8, "from": "ring"},
+  {"mm": [197.1, 8.2, 238.8, 15.1], "w": 41.7, "h": 6.9, "from": "ring"},
+  {"mm": [172.9, 8.2, 184.4, 14.8], "w": 11.4, "h": 6.6, "from": "ring"},
+  {"mm": [163.9, 8.2, 172.3, 14.7], "w": 8.4, "h": 6.5, "from": "ring"},
+  {"mm": [185.0, 8.2, 196.3, 14.7], "w": 11.2, "h": 6.5, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout B 459-04-001, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 0–432 mm across, 0–289 mm up",
+  "- **Outlines:** line 849 rings, 13,112 straight (14,380 mm) / 2,105 curved (2,586 mm); text 62 rings, 592 straight (591 mm) / 143 curved (190 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 4.0 @ (349.6, 143.4), r 2.9 @ (330.8, 195.1), r 2.8 @ (339.9, 257.7), r 2.8 @ (340.7, 83.2)",
+  "- **Closed boxes:** 25"
+ ]
+}

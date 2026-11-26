@@ -1,0 +1,100 @@
+{
+ "drawing": "Modules/ROUTING/M459/SCHEMATICS/1975 - 5-116-06-001 - PCB LAYOUT - DRN DM - ISS 1.jpg",
+ "version": 1,
+ "trace": "_traces/093ceebd94943b30.svg",
+ "sheet": {
+  "number": "C 5-116-06-001",
+  "title": "PCB LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "C",
+  "size_assumed": false,
+  "rotate": 0,
+  "px": [2000, 1540],
+  "mm": [558.8, 430.3],
+  "mm_per_px": 0.2794
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.1, 3.3, 558.9, 428.0],
+ "outlines": {
+  "line": {"rings": 1800, "straight": {"n": 11769, "mm": 15056.9}, "curved": {"n": 3302, "mm": 3817.1}},
+  "text": {"rings": 189, "straight": {"n": 1553, "mm": 1724.2}, "curved": {"n": 517, "mm": 730.4}},
+  "tb": {"rings": 42, "straight": {"n": 149, "mm": 136.0}, "curved": {"n": 16, "mm": 15.6}}
+ },
+ "circles": [
+  {"c": [172.4, 155.7], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [178.8, 279.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [172.3, 202.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [179.3, 155.8], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [277.7, 252.2, 345.4, 334.4], "w": 67.8, "h": 82.2, "from": "ring", "words": ["Ki"]},
+  {"mm": [147.5, 247.5, 190.3, 265.4], "w": 42.8, "h": 18.0, "from": "ring", "words": ["SW2"]},
+  {"mm": [277.7, 157.8, 345.3, 240.4], "w": 67.6, "h": 82.6, "from": "ring", "words": ["K2"]},
+  {"mm": [147.5, 170.7, 190.3, 188.4], "w": 42.7, "h": 17.7, "from": "ring", "words": ["Sw?"]},
+  {"mm": [357.6, 27.9, 407.9, 51.8], "w": 50.4, "h": 23.8, "from": "ring", "words": ["MATL_"], "in_title_block": true},
+  {"mm": [316.0, 46.9, 356.9, 51.5], "w": 40.9, "h": 4.6, "from": "ring", "words": ["USEDON"], "in_title_block": true},
+  {"mm": [304.3, 46.6, 314.9, 51.4], "w": 10.6, "h": 4.8, "from": "ring", "in_title_block": true},
+  {"mm": [315.9, 40.5, 356.8, 46.2], "w": 40.9, "h": 5.7, "from": "ring", "in_title_block": true},
+  {"mm": [304.3, 40.2, 314.9, 46.1], "w": 10.6, "h": 5.9, "from": "ring", "in_title_block": true},
+  {"mm": [292.5, 40.2, 303.4, 45.8], "w": 10.9, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [283.6, 40.2, 291.7, 45.5], "w": 8.1, "h": 5.4, "from": "ring", "in_title_block": true},
+  {"mm": [304.3, 34.0, 314.9, 39.7], "w": 10.6, "h": 5.7, "from": "ring", "in_title_block": true},
+  {"mm": [292.8, 34.1, 303.4, 39.7], "w": 10.6, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [283.9, 34.0, 291.7, 39.5], "w": 7.8, "h": 5.4, "from": "ring", "in_title_block": true},
+  {"mm": [451.8, 13.1, 553.6, 35.5], "w": 101.8, "h": 22.4, "from": "ring", "words": ["M459", "LAYOUT", "PCB"]},
+  {"mm": [316.0, 28.1, 356.9, 33.9], "w": 40.9, "h": 5.7, "from": "ring", "in_title_block": true},
+  {"mm": [292.8, 27.9, 303.7, 33.6], "w": 10.9, "h": 5.7, "from": "ring", "in_title_block": true},
+  {"mm": [283.8, 27.9, 292.0, 33.5], "w": 8.2, "h": 5.7, "from": "ring", "in_title_block": true},
+  {"mm": [304.3, 27.9, 315.2, 33.5], "w": 10.9, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [292.8, 21.5, 303.4, 27.4], "w": 10.6, "h": 5.9, "from": "ring", "in_title_block": true},
+  {"mm": [304.3, 21.8, 315.2, 27.4], "w": 10.9, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [283.9, 21.5, 292.0, 27.1], "w": 8.2, "h": 5.6, "from": "ring", "in_title_block": true},
+  {"mm": [316.3, 15.9, 356.8, 21.3], "w": 40.5, "h": 5.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 29,
+  "lines": [
+   {"mm": [305.7, 290.9, 314.6, 298.0], "text": "Ki"},
+   {"mm": [182.7, 276.3, 202.8, 281.9], "text": "To DSI"},
+   {"mm": [165.1, 254.0, 178.5, 260.8], "text": "SW2"},
+   {"mm": [392.3, 245.6, 414.6, 252.7], "text": "To Sw3"},
+   {"mm": [192.5, 237.8, 230.2, 244.6], "text": "To Sw3-ARM"},
+   {"mm": [396.5, 240.0, 408.2, 246.2], "text": "POS"},
+   {"mm": [219.0, 216.8, 228.8, 223.0], "text": "R3"},
+   {"mm": [391.4, 212.6, 404.0, 218.8], "text": "CD"},
+   {"mm": [182.7, 199.5, 202.8, 205.7], "text": "To DS2"},
+   {"mm": [306.2, 197.3, 316.0, 204.1], "text": "K2"},
+   {"mm": [164.3, 176.0, 179.7, 184.7], "text": "Sw?"},
+   {"mm": [219.0, 166.0, 228.0, 172.2], "text": "R2"},
+   {"mm": [183.3, 152.6, 235.0, 159.4], "text": "To DS3 #CR3 _"},
+   {"mm": [381.1, 152.6, 389.5, 158.1], "text": "Ra"},
+   {"mm": [283.9, 46.4, 314.6, 51.3], "text": "ISS MOD IcKD:"},
+   {"mm": [326.6, 46.4, 346.7, 51.3], "text": "USEDON"},
+   {"mm": [357.9, 46.4, 371.9, 52.0], "text": "MATL_"},
+   {"mm": [416.3, 39.7, 534.8, 48.1], "text": "WB3S5 WAAD-BeCK BybteMB"},
+   {"mm": [409.0, 29.6, 437.5, 35.4], "text": "DRN: Pm"},
+   {"mm": [483.4, 26.0, 506.3, 35.0], "text": "M459"},
+   {"mm": [360.1, 22.6, 373.3, 27.6], "text": "IMISH"},
+   {"mm": [490.6, 16.5, 526.9, 25.5], "text": "LAYOUT"},
+   {"mm": [468.8, 15.4, 488.4, 25.0], "text": "PCB"},
+   {"mm": [409.6, 5.3, 422.2, 10.3], "text": "TOLs_"},
+   {"mm": [466.0, 2.8, 525.3, 12.4], "text": "5-116-06-001"}
+  ]
+ },
+ "title_block": {
+  "mm": [272.8, 21.8, 509.2, 59.9],
+  "from": "title-block words (training set)",
+  "text": ["ISS MOD IcKD:", "USEDON", "MATL_", "WB3S5 WAAD-BeCK BybteMB", "DRN: Pm", "M459", "IMISH"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout C 5-116-06-001, size C 559 × 430 mm, 2000 × 1540 px traced (0.279 mm/px)",
+  "- **Ink extent:** 1–559 mm across, 3–428 mm up",
+  "- **Outlines:** line 1,800 rings, 11,769 straight (15,057 mm) / 3,302 curved (3,817 mm); text 189 rings, 1,553 straight (1,724 mm) / 517 curved (730 mm); tb 42 rings, 149 straight (136 mm) / 16 curved (15.6 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 1.9 @ (172.4, 155.7), r 1.9 @ (178.8, 279.4), r 1.9 @ (172.3, 202.4), r 1.9 @ (179.3, 155.8)",
+  "- **Closed boxes:** 23 (17 in the title block); named: Ki; SW2; K2; Sw?; M459 LAYOUT PCB",
+  "- **Words (OCR):** 29 in 25 lines: Ki · To DSI · SW2 · To Sw3 · To Sw3-ARM · POS · R3 · CD · To DS2 · K2 · Sw? · R2",
+  "- **Title block:** (273, 22)–(509, 60) mm: ISS MOD IcKD: · USEDON · MATL_ · WB3S5 WAAD-BeCK BybteMB · DRN: Pm · M459 · IMISH"
+ ]
+}
