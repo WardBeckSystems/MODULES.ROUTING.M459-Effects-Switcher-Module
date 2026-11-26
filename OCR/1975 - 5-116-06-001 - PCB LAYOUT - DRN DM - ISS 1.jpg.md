@@ -34,7 +34,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Words (OCR):** 29 in 25 lines: Ki · To DSI · SW2 · To Sw3 · To Sw3-ARM · POS · R3 · CD · To DS2 · K2 · Sw? · R2
 - **Title block:** (273, 22)–(509, 60) mm: ISS MOD IcKD: · USEDON · MATL_ · WB3S5 WAAD-BeCK BybteMB · DRN: Pm · M459 · IMISH
 
-Every curve, box, word and wire group: [1975 - 5-116-06-001 - PCB LAYOUT - DRN DM - ISS 1 (traced).json](../SCHEMATICS/1975%20-%205-116-06-001%20-%20PCB%20LAYOUT%20-%20DRN%20DM%20-%20ISS%201%20(traced).json) (the CAD file: `1975 - 5-116-06-001 - PCB LAYOUT - DRN DM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 5-116-06-001 - PCB LAYOUT - DRN DM - ISS 1 (traced).json](../SCHEMATICS/1975%20-%205-116-06-001%20-%20PCB%20LAYOUT%20-%20DRN%20DM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1975 - 5-116-06-001 - PCB LAYOUT - DRN DM - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -22,7 +22,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Closed boxes:** 18
 - **Wiring (first pass):** 55 connected wire groups from 404 runs
 
-Every curve, box, word and wire group: [1979 - M459 - 730230-02-006 - EFFECTS S-ITCHER CHEMATIC (traced).json](../SCHEMATICS/1979%20-%20M459%20-%20730230-02-006%20-%20EFFECTS%20S-ITCHER%20CHEMATIC%20(traced).json) (the CAD file: `1979 - M459 - 730230-02-006 - EFFECTS S-ITCHER CHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1979 - M459 - 730230-02-006 - EFFECTS S-ITCHER CHEMATIC (traced).json](../SCHEMATICS/1979%20-%20M459%20-%20730230-02-006%20-%20EFFECTS%20S-ITCHER%20CHEMATIC%20%28traced%29.json) (the CAD file: `1979 - M459 - 730230-02-006 - EFFECTS S-ITCHER CHEMATIC (traced).dxf`).
 
 ## Full text
 

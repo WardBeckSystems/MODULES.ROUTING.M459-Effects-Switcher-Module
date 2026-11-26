@@ -22,7 +22,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Closed boxes:** 36
 - **Wiring (first pass):** 68 connected wire groups from 544 runs
 
-Every curve, box, word and wire group: [1976 - M459 - 459-02-002 - LAMP LEVELCTL LEVEL (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-002%20-%20LAMP%20LEVELCTL%20LEVEL%20(traced).json) (the CAD file: `1976 - M459 - 459-02-002 - LAMP LEVELCTL LEVEL (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M459 - 459-02-002 - LAMP LEVELCTL LEVEL (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-002%20-%20LAMP%20LEVELCTL%20LEVEL%20%28traced%29.json) (the CAD file: `1976 - M459 - 459-02-002 - LAMP LEVELCTL LEVEL (traced).dxf`).
 
 ## Full text
 

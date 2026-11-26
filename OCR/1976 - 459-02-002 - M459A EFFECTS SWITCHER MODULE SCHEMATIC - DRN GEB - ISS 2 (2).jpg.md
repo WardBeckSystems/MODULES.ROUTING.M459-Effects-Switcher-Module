@@ -40,7 +40,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Title block:** (4, 13)–(278, 64) mm: IsS MOD [CKD · USED ON · MATL · WBS WARD-BECK systeMs LTD. · 3423 PB · DRN: GEB · M453A · DATE AL76 · FINISH · EFFECTS SwitchER · CKD: · RS · SChEMATIC · SCALE · MoDULE · TOLs · Za · 459 02.-002
 - **Wiring (first pass):** 43 connected wire groups from 354 runs; labelled ends: 197 mm → 300, EFFECTS; 185 mm → EFFEcTS; 76 mm → 75_, Vzw, EFFEcTS; 72 mm → 305, 300; 42 mm → 305
 
-Every curve, box, word and wire group: [1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 2 (2) (traced).json](../SCHEMATICS/1976%20-%20459-02-002%20-%20M459A%20EFFECTS%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%202%20(2)%20(traced).json) (the CAD file: `1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 2 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 2 (2) (traced).json](../SCHEMATICS/1976%20-%20459-02-002%20-%20M459A%20EFFECTS%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%202%20%282%29%20%28traced%29.json) (the CAD file: `1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 2 (2) (traced).dxf`).
 
 ## Full text
 

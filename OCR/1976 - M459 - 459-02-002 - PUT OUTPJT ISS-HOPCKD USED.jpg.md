@@ -24,7 +24,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Title block:** (66, 6)–(411, 28) mm: LOLE · USE wBS PcB 4-140 · ISS-HOp-cKD: · USED Oh · Hatl · 3423 PB · WBS WARD-Brck · DaN: seb · M453A · D Al76 · E FfECTS · SwitcheR · CKD · OWD · MoDUle · SchEMATIC
 - **Wiring (first pass):** 46 connected wire groups from 300 runs; labelled ends: 161 mm → I dal, pe $, SCAaJow; 130 mm → ri3, cr2; 118 mm → CR ?, ERa, CRA, 44601; 117 mm → 402, 30c, EFFECTS; 108 mm → 30c, EFFECTs
 
-Every curve, box, word and wire group: [1976 - M459 - 459-02-002 - PUT OUTPJT ISS-HOPCKD USED (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-002%20-%20PUT%20OUTPJT%20ISS-HOPCKD%20USED%20(traced).json) (the CAD file: `1976 - M459 - 459-02-002 - PUT OUTPJT ISS-HOPCKD USED (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M459 - 459-02-002 - PUT OUTPJT ISS-HOPCKD USED (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-002%20-%20PUT%20OUTPJT%20ISS-HOPCKD%20USED%20%28traced%29.json) (the CAD file: `1976 - M459 - 459-02-002 - PUT OUTPJT ISS-HOPCKD USED (traced).dxf`).
 
 ## Full text
 

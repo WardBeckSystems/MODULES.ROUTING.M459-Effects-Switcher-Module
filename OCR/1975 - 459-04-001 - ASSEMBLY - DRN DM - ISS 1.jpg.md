@@ -33,7 +33,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Closed boxes:** 45
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1975 - 459-04-001 - ASSEMBLY - DRN DM - ISS 1 (traced).json](../MECHANICAL/1975%20-%20459-04-001%20-%20ASSEMBLY%20-%20DRN%20DM%20-%20ISS%201%20(traced).json) (the CAD file: `1975 - 459-04-001 - ASSEMBLY - DRN DM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 459-04-001 - ASSEMBLY - DRN DM - ISS 1 (traced).json](../MECHANICAL/1975%20-%20459-04-001%20-%20ASSEMBLY%20-%20DRN%20DM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1975 - 459-04-001 - ASSEMBLY - DRN DM - ISS 1 (traced).dxf`).
 
 ## Full text
 

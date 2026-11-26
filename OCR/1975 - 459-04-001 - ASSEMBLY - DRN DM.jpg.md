@@ -32,7 +32,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Words (OCR):** 21 in 19 lines: WBS · M459 · Loc 0 · On · OFF [ · ISS MODICKD · USED ON · MATL . · WBS WARD-Beck · LT · DRM · FFINISH
 - **Title block:** (144, 14)–(390, 275) mm: WBS · M459 · Loc 0 · On · OFF [ · ISS MODICKD · USED ON · MATL . · WBS WARD-Beck · DRM · FFINISH · DATe ALe75 · M459 · cKD fa · ASSEMBLY · SCALE FULL · TOLS
 
-Every curve, box, word and wire group: [1975 - 459-04-001 - ASSEMBLY - DRN DM (traced).json](../MECHANICAL/1975%20-%20459-04-001%20-%20ASSEMBLY%20-%20DRN%20DM%20(traced).json) (the CAD file: `1975 - 459-04-001 - ASSEMBLY - DRN DM (traced).dxf`).
+Every curve, box, word and wire group: [1975 - 459-04-001 - ASSEMBLY - DRN DM (traced).json](../MECHANICAL/1975%20-%20459-04-001%20-%20ASSEMBLY%20-%20DRN%20DM%20%28traced%29.json) (the CAD file: `1975 - 459-04-001 - ASSEMBLY - DRN DM (traced).dxf`).
 
 ## Full text
 

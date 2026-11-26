@@ -37,7 +37,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Title block:** (97, 18)–(432, 31) mm: NOTE · WBS WAAD-BeCK BybteMB · USE · wBS Pcb 4-10
 - **Wiring (first pass):** 52 connected wire groups from 361 runs, 1 dotted junctions; labelled ends: 184 mm → 463 3; 112 mm → EfFECTS; 84 mm → NEW, WBS, WAAD-BeCK BybteMB; 55 mm → WBS; 38 mm → NEW
 
-Every curve, box, word and wire group: [1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1976%20-%20459-02-002%20-%20M459A%20EFFECTS%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%203%20(traced).json) (the CAD file: `1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 3 (traced).json](../SCHEMATICS/1976%20-%20459-02-002%20-%20M459A%20EFFECTS%20SWITCHER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 3 (traced).dxf`).
 
 ## Full text
 

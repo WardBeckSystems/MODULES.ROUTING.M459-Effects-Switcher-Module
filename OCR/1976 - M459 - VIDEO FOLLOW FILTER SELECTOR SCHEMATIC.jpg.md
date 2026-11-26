@@ -12,6 +12,21 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Size:** 8,271,739 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 333 mm, 2000 × 1544 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–333 mm up
+- **Outlines:** line 806 rings, 8,479 straight (11,358 mm) / 917 curved (1,249 mm); text 406 rings, 2,031 straight (1,780 mm) / 448 curved (567 mm); tb 58 rings, 467 straight (495 mm) / 69 curved (93.2 mm)
+- **Centre lines:** 4,043 paths (30 closed); straight 6,967 mm, curved 68.8 mm; horizontal 3,664 mm, vertical 1,661 mm, diagonal 1,642 mm
+- **Circles and arcs:** 0 circles, 21 arcs
+- **Closed boxes:** 10; named: WBS WARD-BeCk LtD; M459 SELECTOP ScheMATIC; FINISH; SS
+- **Dots (junctions):** 1
+- **Words (OCR):** 57 in 54 lines: FILTER · FILTER 2 · OUT · OUT · A IN · OUT · B IN · OUT · Kz · CRI · DS2 (RD) · FLV-1/7
+- **Title block:** (305, 4)–(393, 46) mm: WBS WARD-BeCk · Dm · DRN: · M459 · DATE 422 · CKD · SELECTOP ScheMATIC · SCALE · TOLs
+- **Wiring (first pass):** 128 connected wire groups from 620 runs, 1 dotted junctions; labelled ends: 200 mm → ISS MCD., USED, FINISH; 115 mm → ISS MCD.; 110 mm → OUT; 73 mm → WBS, DRN:, DATE, CKD; 54 mm → CRI, JN4003
+
+Every curve, box, word and wire group: [1976 - M459 - VIDEO FOLLOW FILTER SELECTOR SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20VIDEO%20FOLLOW%20FILTER%20SELECTOR%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - M459 - VIDEO FOLLOW FILTER SELECTOR SCHEMATIC (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

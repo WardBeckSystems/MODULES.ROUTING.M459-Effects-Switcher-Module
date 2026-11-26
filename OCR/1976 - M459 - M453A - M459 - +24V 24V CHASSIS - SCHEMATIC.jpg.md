@@ -12,6 +12,21 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Size:** 257,481 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 135 mm, 2000 × 624 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–123 mm up
+- **Outlines:** line 734 rings, 6,356 straight (9,263 mm) / 1,519 curved (1,835 mm); text 91 rings, 483 straight (421 mm) / 171 curved (205 mm); tb 18 rings, 143 straight (171 mm) / 30 curved (34.7 mm)
+- **Centre lines:** 6,432 paths (133 closed); straight 6,033 mm, curved 190 mm; horizontal 2,250 mm, vertical 1,756 mm, diagonal 2,027 mm
+- **Circles and arcs:** 11 circles, 33 arcs; largest r 1.8 @ (210.7, 115.8), r 1.7 @ (263.8, 115.5), r 1.7 @ (222.4, 115.6), r 1.6 @ (237.4, 115.4)
+- **Closed boxes:** 29 (5 in the title block); named: HODICKD WBS 662 M4534 FfeCts SchemaTiC 4; WBS; 662; M4534 FfeCts SchemaTiC
+- **Dots (junctions):** 3
+- **Words (OCR):** 19 in 17 lines: 1' "'7 · Rt · Vi - · 754 · 200€ · +24 · LLL · Level Ct_ · HALE · Pr3 · HODICKD · WBS
+- **Title block:** (287, 17)–(385, 28) mm: HODICKD · WBS · 662
+- **Wiring (first pass):** 53 connected wire groups from 434 runs, 2 dotted junctions; labelled ends: 75 mm → WBS; 53 mm → WBS; 38 mm → 754, Vi -; 30 mm → WBS, 662; 28 mm → Rt, 200€
+
+Every curve, box, word and wire group: [1976 - M459 - M453A - M459 - +24V 24V CHASSIS - SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20M453A%20-%20M459%20-%20%2B24V%2024V%20CHASSIS%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - M459 - M453A - M459 - +24V 24V CHASSIS - SCHEMATIC (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

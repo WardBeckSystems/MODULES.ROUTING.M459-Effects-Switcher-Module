@@ -22,7 +22,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Closed boxes:** 41
 - **Wiring (first pass):** 45 connected wire groups from 460 runs
 
-Every curve, box, word and wire group: [1976 - M459 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-002%20-%20FECTS%20SWITCHER%20DULE%20SCHEMATIC%20(traced).json) (the CAD file: `1976 - M459 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M459 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-002%20-%20FECTS%20SWITCHER%20DULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - M459 - 459-02-002 - FECTS SWITCHER DULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

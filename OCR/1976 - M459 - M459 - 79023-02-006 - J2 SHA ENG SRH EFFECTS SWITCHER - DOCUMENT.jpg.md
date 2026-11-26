@@ -25,7 +25,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Title block:** (348, 5)–(432, 41) mm: ISSUE DALE · REVISION · WBS WARD-BECK systems · -FECts 5 /TCHER · SCHEYATIC · SCALe · 730238-03 Oos · ISsuF
 - **Wiring (first pass):** 89 connected wire groups from 839 runs, 2 dotted junctions; labelled ends: 57 mm → ISSUE DALE; 34 mm → 44594; 33 mm → Ch2; 31 mm → Ch, C42; 21 mm → 2828
 
-Every curve, box, word and wire group: [1976 - M459 - M459 - 79023-02-006 - J2 SHA ENG SRH EFFECTS SWITCHER - DOCUMENT (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20M459%20-%2079023-02-006%20-%20J2%20SHA%20ENG%20SRH%20EFFECTS%20SWITCHER%20-%20DOCUMENT%20(traced).json) (the CAD file: `1976 - M459 - M459 - 79023-02-006 - J2 SHA ENG SRH EFFECTS SWITCHER - DOCUMENT (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M459 - M459 - 79023-02-006 - J2 SHA ENG SRH EFFECTS SWITCHER - DOCUMENT (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20M459%20-%2079023-02-006%20-%20J2%20SHA%20ENG%20SRH%20EFFECTS%20SWITCHER%20-%20DOCUMENT%20%28traced%29.json) (the CAD file: `1976 - M459 - M459 - 79023-02-006 - J2 SHA ENG SRH EFFECTS SWITCHER - DOCUMENT (traced).dxf`).
 
 ## Full text
 

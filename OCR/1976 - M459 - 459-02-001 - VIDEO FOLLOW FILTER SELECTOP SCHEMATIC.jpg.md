@@ -24,7 +24,7 @@ Wiki page: [M459](../../../../PAGES/M459.md)
 - **Title block:** (288, 4)–(386, 52) mm: WBS · WARD-BeCK systeM? LTD. · DRN · M459 · VIDEO FOLLOW FILTER · cKd · SELECTOP ScheMATIC · SCALE · cl4z9 02-001 · ToLs ANG
 - **Wiring (first pass):** 126 connected wire groups from 1,095 runs; labelled ends: 342 mm → WBS, 3067, USED; 328 mm → 3067, USED; 189 mm → Ri, Ik 'zw, Kz; 139 mm → Ri, Ik 'zw, CRI, IN4o3; 123 mm → Kz
 
-Every curve, box, word and wire group: [1976 - M459 - 459-02-001 - VIDEO FOLLOW FILTER SELECTOP SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-001%20-%20VIDEO%20FOLLOW%20FILTER%20SELECTOP%20SCHEMATIC%20(traced).json) (the CAD file: `1976 - M459 - 459-02-001 - VIDEO FOLLOW FILTER SELECTOP SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M459 - 459-02-001 - VIDEO FOLLOW FILTER SELECTOP SCHEMATIC (traced).json](../SCHEMATICS/1976%20-%20M459%20-%20459-02-001%20-%20VIDEO%20FOLLOW%20FILTER%20SELECTOP%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1976 - M459 - 459-02-001 - VIDEO FOLLOW FILTER SELECTOP SCHEMATIC (traced).dxf`).
 
 ## Full text
 
