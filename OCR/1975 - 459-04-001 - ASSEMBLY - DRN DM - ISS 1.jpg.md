@@ -1,5 +1,5 @@
 # 1975 - 459-04-001 - ASSEMBLY - DRN DM - ISS 1.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1975 (title block date)

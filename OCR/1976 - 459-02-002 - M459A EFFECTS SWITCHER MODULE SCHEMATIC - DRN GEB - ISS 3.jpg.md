@@ -1,5 +1,5 @@
 # 1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 3.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1976 (title block date)

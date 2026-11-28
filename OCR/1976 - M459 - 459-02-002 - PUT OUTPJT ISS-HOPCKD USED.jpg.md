@@ -1,5 +1,5 @@
 # 1976 - M459 - 459-02-002 - PUT OUTPJT ISS-HOPCKD USED.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

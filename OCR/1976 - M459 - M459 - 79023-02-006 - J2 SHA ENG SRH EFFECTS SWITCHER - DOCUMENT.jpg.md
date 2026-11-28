@@ -1,5 +1,5 @@
 # 1976 - M459 - M459 - 79023-02-006 - J2 SHA ENG SRH EFFECTS SWITCHER - DOCUMENT.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

@@ -1,5 +1,5 @@
 # 1976 - B 459-02 - EFFECTS SW... MODULE SCH - DRN GEB.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1976 (title block date)

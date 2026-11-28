@@ -1,5 +1,5 @@
 # 1979 - M459 - 730230-02-006 - EFFECTS S-ITCHER CHEMATIC.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1979 (job number 790236 in file name)

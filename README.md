@@ -1,6 +1,6 @@
 # M459 Effects Switcher Module · Routing
 
-Ward-Beck Systems M459, 1975|8. Wiki page: [M459 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M459.html)
+Ward-Beck Systems M459, 1975|8. Wiki page: [M459 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M459-Effects-Switcher-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

@@ -1,5 +1,5 @@
 # 1975 - 5-116-06-001 - PCB LAYOUT - DRN DM - ISS 1.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1975 (title block date)

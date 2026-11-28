@@ -1,5 +1,5 @@
 # 1976 - M459 - 459-04-001 - LISS MODIICKD USED.jpg
-Wiki page: [M459](../../../../PAGES/M459.md)
+Wiki page: [M459](../)
 
 
 - **Year:** 1976 (module estimate (labelled))
