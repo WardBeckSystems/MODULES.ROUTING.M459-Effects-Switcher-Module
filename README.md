@@ -4,13 +4,12 @@ Ward-Beck Systems M459, 1975|8. Wiki page: [M459 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 69 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 17 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 9 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 16 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 68 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 18 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 8 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 30 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -36,8 +35,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUUpKR3draW9LRkk/view?resourcekey=0-yc3e3rZIF3tUh3oOWvO0eA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUUpKR3draW9LRkk&resourcekey=0-yc3e3rZIF3tUh3oOWvO0eA" width="240" alt="1976 - M459 - 459-04-001 - LISS MODIICKD USED.jpg"></a><br><sub>1976|9 · 459-04-001 - LISS MODIICKD USED · <a href="MECHANICAL/1976%20-%20M459%20-%20459-04-001%20-%20LISS%20MODIICKD%20USED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1975 - 459-04-001 - ASSEMBLY - DRN DM (2).jpg`, `1975 - 459-04-001 - ASSEMBLY - DRN DM - ISS 1.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M459.stl`](MECHANICAL/M459.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M459)
@@ -58,13 +55,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdS1MVTRUYk9zRjQ/view?resourcekey=0-X3edbD8ENifnz1wGQJNoCw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdS1MVTRUYk9zRjQ&resourcekey=0-X3edbD8ENifnz1wGQJNoCw" width="240" alt="1979 - M459 - 790236-02-006 (2).jpg"></a><br><sub>1979|12 · 790236-02-006 (2) · <a href="SCHEMATICS/1979%20-%20M459%20-%20790236-02-006%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeGJJNXF2ajB2S00/view?resourcekey=0-jpEDheUqhlZnM2WnrstLuA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeGJJNXF2ajB2S00&resourcekey=0-jpEDheUqhlZnM2WnrstLuA" width="240" alt="1979 - M459 - 790236-02-006.jpg"></a><br><sub>1979|12 · 790236-02-006 · <a href="SCHEMATICS/1979%20-%20M459%20-%20790236-02-006%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1975 - 5-116-06-001 - PCB LAYOUT - DRN DM - ISS 1.jpg`, `1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 2 (2).jpg`, `1976 - 459-02-002 - M459A EFFECTS SWITCHER MODULE SCHEMATIC - DRN GEB - ISS 2.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M459 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -81,8 +74,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQTJJYmlGM2FmTVU/view?resourcekey=0-ecQeHN0Oeh2Hn1kx5CY7OQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQTJJYmlGM2FmTVU&resourcekey=0-ecQeHN0Oeh2Hn1kx5CY7OQ" width="240" alt="1976 - M459 - 000 - cover (2).jpg"></a><br><sub>1976|9 · 000 - cover (2)</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSzRJVnp3NS05N2M/view?resourcekey=0-K1ras4OFrAeVtk8GJ65F2A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSzRJVnp3NS05N2M&resourcekey=0-K1ras4OFrAeVtk8GJ65F2A" width="240" alt="1976 - M459 - 000 - cover.jpg"></a><br><sub>1976|9 · 000 - cover</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbkpSSXRFVGNrN2s/view?resourcekey=0-iqtRxo_ceeCj8TBgTIViAw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbkpSSXRFVGNrN2s&resourcekey=0-iqtRxo_ceeCj8TBgTIViAw" width="240" alt="1976 - M459 - 001.jpg"></a><br><sub>1976|9 · 001</sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV0pLQThRQTJMZTg/view?resourcekey=0-hfqfsSzTq5JrZnP23AxTGA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV0pLQThRQTJMZTg&resourcekey=0-hfqfsSzTq5JrZnP23AxTGA" width="240" alt="1976 - M459 - 002.jpg"></a><br><sub>1976|9 · 002</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLXdVQ1o4T3FBQmM/view?resourcekey=0-qfXn27qOZem0EJtwFllaYQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLXdVQ1o4T3FBQmM&resourcekey=0-qfXn27qOZem0EJtwFllaYQ" width="240" alt="1976 - M459 - 003.jpg"></a><br><sub>1976|9 · 003</sub></td></tr>
 </table>
-
-Not on Google Drive yet: `1976 - B 459-02 - EFFECTS SW... MODULE SCH - DRN GEB (2).jpg`, `1976 - B 459-02 - EFFECTS SW... MODULE SCH - DRN GEB.jpg`, `M459 - 004 copy.jpg`
 
 ## KiCad
 
@@ -103,7 +94,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1979 - M459 - 790236-02-006 (2).kicad_sch](KICAD/1979%20-%20M459%20-%20790236-02-006%20(2).kicad_sch)
 - [1979 - M459 - 790236-02-006.kicad_sch](KICAD/1979%20-%20M459%20-%20790236-02-006.kicad_sch)
 - [M459.kicad_sym](KICAD/M459.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
